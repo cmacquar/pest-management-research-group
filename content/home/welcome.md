@@ -4,9 +4,9 @@ widget_id: header
 headless: true
 weight: 10
 title: Pest Management Team
-hero_media: welcome.jpg
+hero_media: welcome_1.jpg
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 ---
