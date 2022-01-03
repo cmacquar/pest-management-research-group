@@ -6,7 +6,7 @@ weight: 10
 title: Pest Management Team
 hero_media: welcome_1.jpg
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
 ---
