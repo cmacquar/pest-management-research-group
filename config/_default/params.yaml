@@ -44,8 +44,8 @@ contact_links:
 # Site header
 
 main_menu:
-  enable: true
-  align: l
+  enable: false
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
