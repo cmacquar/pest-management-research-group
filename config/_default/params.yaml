@@ -15,28 +15,26 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
-twitter: ''
+description: Natural Resources Canada Canadian Forest Service Great Lakes Forestry Centre MacQuarrie Pest Management Laboratory.
+twitter: @cmacquar
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: Christian.MacQuarrie@NRCan-RNCan.gc.ca
+phone: ''
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 1219 Queen St. East
+  city: Sault Ste. Marie
+  region: Ontario
+  postcode: P6A 2E5
+  country: Canada
+  country_code: CA
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '46.5039' 
+  longitude: '-84.3060'
+directions: ''
+office_hours: ''
+appointment_url: ''
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
