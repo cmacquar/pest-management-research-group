@@ -6,7 +6,7 @@
 main:
   - name: Landing
     url: landing
-    weight = 2
+    weight: = 10
   - name: News
     url: post
     weight: 20
